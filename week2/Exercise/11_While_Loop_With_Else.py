@@ -8,7 +8,7 @@ else:
     print("Loop Esceuted without any break statement")
 
 
-
+x = 10
 print("#######################################")
 # If you want to execute, execute completely or dont 
 while count < x:
