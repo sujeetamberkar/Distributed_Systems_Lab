@@ -8,7 +8,6 @@ matrix1 = np.array([[1, 2, 3],
 matrix2 = np.array([[9, 8, 7],
                     [6, 5, 4],
                     [3, 2, 1]])
-
 # Element-wise product
 elementwise_product = matrix1 * matrix2
 
