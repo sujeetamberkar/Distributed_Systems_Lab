@@ -7,7 +7,7 @@ def reduce_function():
         age = int(line.strip())  # Convert age from string to integer
         if age > max_age:
             max_age = age
-    print(f"Maximum age: {max_age}")
+    print(f"Maximum Death: {max_age}")
 
 if __name__ == "__main__":
     reduce_function()
