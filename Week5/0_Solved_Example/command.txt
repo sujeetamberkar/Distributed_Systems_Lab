@@ -1,0 +1,1 @@
+echo "a a a a v v f f hh hh fg tg fg gt nnn ccc ddd nnn ddd"|python3 mapper.py | sort | python3 reducer.py

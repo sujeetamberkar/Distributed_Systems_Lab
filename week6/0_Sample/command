@@ -1,0 +1,2 @@
+ echo "Time is gold Time is Time gold" | python3 sepmap.py
+ 

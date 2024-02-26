@@ -1,1 +1,0 @@
-cat heart_disease_data.csv | python3 freqmap1.py | sort | python3 freqred1.py | python3 freqmap2.py | sort

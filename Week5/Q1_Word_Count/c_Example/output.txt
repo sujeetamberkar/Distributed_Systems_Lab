@@ -1,0 +1,5 @@
+Amex	13
+Cash	10
+Discover	11
+MasterCard	6
+Visa	10

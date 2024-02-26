@@ -1,0 +1,1 @@
+python3 code.py | python3 freqmap1.py | sort | python3 freqred1.py | python3 freqmap2.py|sort|python3 freqred2.py 

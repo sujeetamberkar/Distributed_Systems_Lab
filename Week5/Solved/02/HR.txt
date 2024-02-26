@@ -1,2 +1,0 @@
-This is a HR file for reading and didplaying output on the terminal 
-The file should be forced and saved in the present working directory 
